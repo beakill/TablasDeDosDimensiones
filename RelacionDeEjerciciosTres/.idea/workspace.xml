@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc7c4fd0-25cf-48cc-a5ce-3e32793dea35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j9NHuS6OBhLv8dAQK3kvpVaom0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Ejercicio18">
+    <configuration name="Ejercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio14" />
+      <module name="RelacionDeEjerciciosTres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio17" />
+      <module name="RelacionDeEjerciciosTres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio18" />
+      <module name="RelacionDeEjerciciosTres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio19" />
+      <module name="RelacionDeEjerciciosTres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio4" />
+      <module name="RelacionDeEjerciciosTres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicio18" />
+        <item itemvalue="Application.Ejercicio19" />
+        <item itemvalue="Application.Ejercicio17" />
+        <item itemvalue="Application.Ejercicio14" />
+        <item itemvalue="Application.Ejercicio4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc7c4fd0-25cf-48cc-a5ce-3e32793dea35" name="Default Changelist" comment="" />
+      <created>1603212341632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603212341632</updated>
+      <workItem from="1603212342739" duration="12000" />
+      <workItem from="1603212422351" duration="3645000" />
+      <workItem from="1603267719645" duration="2872000" />
+      <workItem from="1603273072002" duration="2874000" />
+      <workItem from="1603433320629" duration="6689000" />
+      <workItem from="1603458716599" duration="410000" />
+      <workItem from="1603643206339" duration="635000" />
+      <workItem from="1603808575866" duration="53000" />
+      <workItem from="1603913819904" duration="1460000" />
+      <workItem from="1603962642600" duration="758000" />
+      <workItem from="1603965519004" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1603965568084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/-1920.-180.1536.832/0.0.1360.728@0.0.1360.728" timestamp="1603212933015" />
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603965568084" />
+    <state width="1317" height="133" key="GridCell.Tab.0.bottom/1360.-197.1536.832/0.0.1360.728@0.0.1360.728" timestamp="1603643845319" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center" timestamp="1603965568084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.center/-1920.-180.1536.832/0.0.1360.728@0.0.1360.728" timestamp="1603212933015" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603965568084" />
+    <state width="1317" height="133" key="GridCell.Tab.0.center/1360.-197.1536.832/0.0.1360.728@0.0.1360.728" timestamp="1603643845319" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left" timestamp="1603965568084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.left/-1920.-180.1536.832/0.0.1360.728@0.0.1360.728" timestamp="1603212933015" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603965568084" />
+    <state width="1317" height="133" key="GridCell.Tab.0.left/1360.-197.1536.832/0.0.1360.728@0.0.1360.728" timestamp="1603643845319" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right" timestamp="1603965568084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/-1920.-180.1536.832/0.0.1360.728@0.0.1360.728" timestamp="1603212933015" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603965568084" />
+    <state width="1317" height="133" key="GridCell.Tab.0.right/1360.-197.1536.832/0.0.1360.728@0.0.1360.728" timestamp="1603643845319" />
+    <state x="360" y="33" key="new project wizard" timestamp="1603963546047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603963546047" />
+  </component>
+</project>

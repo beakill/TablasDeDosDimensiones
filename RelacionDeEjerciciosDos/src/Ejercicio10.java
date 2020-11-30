@@ -5,30 +5,27 @@ public class Ejercicio10 {
         int horas, minutos, segundos;
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Introduce la hora");
+        System.out.println("Introduce la hora: ");
         horas=entrada.nextInt();
 
-        System.out.println("Introduce los minutos");
+        System.out.println("Introduce los minutos: ");
         minutos=entrada.nextInt();
 
-        System.out.println("Introduce los segundos");
+        System.out.println("Introduce los segundos: ");
         segundos=entrada.nextInt();
 
-        if(segundos>=59){
+        segundos++;
+        if(segundos==60){
             minutos++;
-            segundos=00;
-        }else{
-            segundos++;
-        }
-            if (minutos>=59){
+            segundos=0;
+            if (minutos==60){
                 horas++;
-                minutos=00;
-            }
-                if (horas >24){
-                    horas = 01;
+                minutos=0;
+                if (horas == 24) {
+                    horas = 0;
                 }
-
-
+            }
+        }
 
         System.out.println("Son las "+horas+ ":"+minutos+":"+segundos);
     }
